@@ -1,0 +1,230 @@
+.backgroundcolor{
+    background-color: rgb(238, 246, 238);
+}
+.top{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    background-color: rgba(231, 251, 255, 0.962);
+}
+.flux{
+    display: flex;
+    list-style: none;
+    gap: 30px;
+    font-weight: bold;
+    margin-right: 75px;
+    margin-top: 35px;
+    cursor: pointer;
+    font-family: 'Courier New', Courier, monospace;
+}
+.padding{
+    padding: 20px;
+}
+.cur_poi{
+    cursor: pointer;
+}
+.login{
+    margin-top: 35px;
+    margin-right: 50px;
+    cursor: pointer;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+.searchbar{
+    margin-top: 30px;
+    display: flex;
+    height: 35px;
+    gap: 2px;
+}
+.searchbtn{
+    border-radius: 10px;
+    background-color: orange;
+}
+.searchbtn:hover{
+    border: 1px solid black;
+    }
+.margin_top{
+    margin-top: 25px;
+}
+.margin_bottom{
+    margin-bottom: 20px;
+}
+.margin_top_bottom{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.margin_ri8_left{
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.heading{
+    color: black;
+    margin-bottom: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder
+}
+.Categori{
+    margin-bottom: 20px;
+}
+.categ_img{
+    border-radius: 50%;
+    height: 225px;
+    cursor: pointer;
+    border: solid black 2px;
+    box-shadow: 0px 0 20px rgba(0, 0, 0, 1);
+}
+.categ_space{
+    margin-top: 5px;
+    margin-right: 50px;
+    cursor: pointer;
+}
+.para{
+    text-align: justify;
+}
+.card{
+    box-shadow: 0px 0 20px rgba(0, 0, 0, 1);
+}
+.off_bg{
+    background-color:rgb(230, 255, 247);
+}
+.off_text{
+    display: flex;
+    justify-content: space-between;
+    font-weight:bolder
+    
+}
+.off_txtView{
+    cursor: pointer;
+}
+.card_img{
+    height: 200px;
+    border-radius: 20px;
+}
+.card_width{
+    width: 200px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+}
+.card_flux{
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+}
+.off_btn{
+    border-radius: 10px;
+    background-color: orange;
+    border: 1px solid black;
+}
+.off_btn:hover{
+    border: 1px solid black;
+    }
+.off_color{
+    color: green;
+}
+.off_bn{
+    background-color: green;
+}
+.border_rad_off_bn{
+    border-radius: 10px;
+}
+.sub_btn{
+    margin-top: 5px;
+    background-color: rgb(191, 62, 62);
+    border-radius: 10px;
+    font-weight: bolder;
+    color: white;
+}
+.sub_btn:hover{
+    border: 1px solid black;
+}
+.sub_heading{
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-size: 20px;
+}
+.bott_ban{
+    background-color: rgb(230, 255, 247);
+}
+.bott_flux{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.bott_line1{
+    color: green;
+    font-size: 50px;
+}
+.bott_line2{
+    font-size: 20px;
+}
+.bott_flux2{
+    display: flex;
+    justify-content: space-between;
+    background-color: aquamarine;
+    color:black;
+    font-weight: bolder;
+}
+.seed_btn{
+    border-radius: 10px;
+    background-color: rgb(242, 254, 194);
+    border: 1px solid black;
+}
+.seed_btn:hover{
+border: 1px solid black;
+}
+.season_btn{
+    border-radius: 10px;
+    background-color: rgb(246, 246, 113);
+    border: 1px solid black;
+}
+.season_btn:hover{
+    border: 1px solid black;
+}
+.PopPro_btn{
+    border-radius: 10px;
+    background-color: pink;
+    border: 1px solid black;
+}
+.PopPro_btn:hover{
+    border: 1px solid black;
+}
+.tool_btn{
+    border-radius: 10px;
+    background-color: rgb(247, 222, 176);
+    border: 1px solid black;
+}
+.tool_btn:hover{
+    border: 1px solid black;
+}
+.app_icon{
+    display: flex;
+    gap: 10px;
+}
+.icon_point{
+    margin-top: 10px;
+}
+.con_flx{
+    padding: 20px;
+}
+.submit{
+    margin-top: 20px;
+    background-color: rgb(191, 62, 62);
+    border-radius: 10px;
+    font-weight: bolder;
+    color: white;
+}
+.submit:hover{
+    border: 1px solid black;
+}
+.submit_sp{
+    display: flex;
+    justify-content: center;
+}
+.img_con{
+    border-radius: 10px;
+}
+.foot_sp{
+    margin-top: 23px;
+}
